@@ -48,8 +48,3 @@ img {
   grid-column-start: 1;
   grid-column-end: span 1
 }
-
-.G {
-  grid-column-start: 1;
-  grid-column-end: span 2
-}
